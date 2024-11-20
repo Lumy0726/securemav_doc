@@ -10,4 +10,5 @@ Github repository is [here(PX4)](https://github.com/Lumy0726/PX4-Autopilot/).
 Github repository is [here(QGC)](https://github.com/Lumy0726/qgroundcontrol/).  
 
 # Documents
-* [중간보고서]  
+* Middle report paper, 3 page, pdf.  
+[중간보고서](./report_middle.pdf)  
