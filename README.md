@@ -12,6 +12,8 @@ Github repository is [here(QGC)](https://github.com/Lumy0726/qgroundcontrol/).
 # Documents
 * Middle report paper, 3 page, Korean, pdf.  
 [중간보고서](./report_middle.pdf)  
+* final report paper, 3 page, Korean, pdf.  
+[최종논문](./paper_final.pdf)  
 
 ---
 
